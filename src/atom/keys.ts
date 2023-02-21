@@ -1,0 +1,4 @@
+export enum atomKeys
+{
+    title,
+}
